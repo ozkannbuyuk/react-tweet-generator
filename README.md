@@ -2,6 +2,10 @@
    React - Tweet Generator
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/react-tweet-generator/assets/111967202/0bf18c81-c2c3-496f-b375-210d74b5bb91" width="400" />
   <img src="https://github.com/ozkannbuyuk/react-tweet-generator/assets/111967202/c6394934-8dfc-46be-a587-0ceba8e962b5" width="400" />
